@@ -13,6 +13,7 @@ The goal of this project is to create a basic web template that is legally compl
 - Legal review: ensure the website is legally compliant and meets relevant requirements
 - SEO optimization: improve website discoverability by search engines
 - Performance optimization: optimize website performance to meet validation and scanning tests
+- User Experience optimization
 
 ## Epics
 
