@@ -14,7 +14,7 @@
 3. User Stories:
    - Define user stories and other important features, and prioritize them based on their importance to the user. Use the user stories to create the backlog.
 4. Task Management:
-   - Assign tasks to team members, define the task requirements, estimate the effort needed, and track the progress. Use GitHub Project Management.
+   - Assign tasks to team members, define the task requirements, estimate the effort needed, and track the progress. Use GitHub Project Management. Team will communicate in person during class time and arranged meetings as neccessary, through discord, and with comments in GitHub.
 5. Continuous Integration and Deployment:
    - Implement a continuous integration and deployment process to automate the testing and deployment of the website.
 6. Quality Assurance:
