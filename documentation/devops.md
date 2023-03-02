@@ -19,6 +19,7 @@
 1. Use automated testing tools as much as possible.
 2. Use spell-checking tools, such as Grammarly to ensure the documentation is free of spelling and grammar errors.
 3. Test the documentation on different devices and browsers to ensure cross-platform compatibility.
+4. Validate all user input.
 
 ### Deployment
 
