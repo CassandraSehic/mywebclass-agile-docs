@@ -31,6 +31,7 @@ The goal of this project is to create a basic web template that is legally compl
 - Develop a privacy policy that outlines how user data will be collected, used, and protected, and ensure it meets relevant legal requirements.
 - Ensure cookie consent is implemented to allow for legally compliant use of Google Analytics.
 - Test website compliance using GDPR Scanner.
+- Follow steps to be in compliance with COPPA
 
 ### SEO Optimization Epic
 
